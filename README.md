@@ -1,1 +1,1 @@
-# rsschool-cv
+[My CV gh-pages](https://mrinex.github.io/rsschool-cv/cv)
