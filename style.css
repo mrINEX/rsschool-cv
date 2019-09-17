@@ -1,0 +1,11 @@
+.conteiner {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#myphoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
