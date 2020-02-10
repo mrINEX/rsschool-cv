@@ -1,1 +1,4 @@
-[My CV gh-pages](https://mrinex.github.io/rsschool-cv/cv)
+# rsschool-cv
+
+Uladzimir Kazak 
+HTML CSS Basics: https://www.codecademy.com/users/mrinexx/achievements
